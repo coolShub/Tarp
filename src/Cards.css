@@ -3,9 +3,10 @@
     background: #fff;
   }
   
-  h1 {
+  h1,h3 {
     text-align: center;
   }
+  
   
   .cards__container {
     display: flex;
